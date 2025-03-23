@@ -1,0 +1,22 @@
+# Git関連
+.git
+.gitignore
+
+# Composer関連
+vendor/
+composer.lock
+
+# Node.js関連
+node_modules/
+package-lock.json
+
+# 環境ファイル
+#.env
+
+# Docker関連
+Dockerfile
+docker-compose.yml
+
+# その他
+*.log
+storage/logs/*
