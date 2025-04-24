@@ -11,7 +11,9 @@ node_modules/
 package-lock.json
 
 # 環境ファイル
-#.env
+.env
+.env.*
+!.env.docker
 
 # Docker関連
 Dockerfile
